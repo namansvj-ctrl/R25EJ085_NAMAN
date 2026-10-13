@@ -5,3 +5,5 @@ Hi, I'm a B.Tech Computer Science and Information Technology student at REVA Uni
 Learning Python and C programming
 
 Interested in AI and data science
+
+Goal: Contribute to open sourcegit add README.md
